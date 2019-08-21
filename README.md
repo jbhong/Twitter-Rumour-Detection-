@@ -1,5 +1,5 @@
-# Twitter-Rumour-Detection-
-A Twitter rumour detection system using machine learning based on PHEME dataset
+# Twitter Rumour Detection
+A Twitter rumour detection system using various machine learning models (tested using PHEME dataset)
 
 ## Files contained in this repository:
 1. feature_extraction.py<br>
@@ -14,6 +14,8 @@ A Gaussian Naive Bayes model that read "dataset.csv" and implement training, tes
 4. dataset.csv<br>
 Extracted features from dataset. The outcome of feature_extraction.py
 
+5. Report<br>
+Rumor_detection_report.pdf contains the report of this project including the experimental results.
 
 ## Software requirement:
 Python 3.0 or higher version
